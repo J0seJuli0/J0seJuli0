@@ -15,8 +15,6 @@
 <a href="https://www.instagram.com/juli0.c0m/"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"> Jose Julio</a>
 
 
-<hr>
-
 ## 🚀💻 Technologies & Tools
 
 ### <u> Languages: </u>

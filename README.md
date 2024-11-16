@@ -10,11 +10,10 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://www.linkedin.com/in/shariful-islam-b3266a1b9/"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"> Shariful Islam</a>
+<a href="https://www.linkedin.com/in/josejuliosanchezcruzado/"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"> Jose Julio</a>
 
-<a href="https://www.instagram.com/sharif__islam_/"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"> Sharif Islam</a>
+<a href="https://www.instagram.com/juli0.c0m/"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"> Jose Julio</a>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sharif.islam96403@gmail.com"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"> Shariful Islam</a>
 
 <hr>
 
@@ -23,9 +22,7 @@
 ### <u> Languages: </u>
 <br>
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-&nbsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 &nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 &nbsp;
@@ -33,12 +30,12 @@
 &nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 &nbsp;
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 &nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 </span>
 &nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 &nbsp;
 <br>
 

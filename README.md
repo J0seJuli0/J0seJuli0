@@ -9,7 +9,7 @@
   
  <p align="center">
   <a href="https://github.com/shaurya-src">
-    <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Hello%20world.gif" width="300">
+    <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Hello%20world.gif" width="300" margin-left:"10">
   </a>
 </p>
 

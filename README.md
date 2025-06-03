@@ -13,6 +13,7 @@
 <a href="https://www.linkedin.com/in/josejuliosanchezcruzado/"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"> Jose Julio</a>
 
 <br>
+
 ## 🚀💻 Technologies & Tools
 
 ### <u> Languages: </u>

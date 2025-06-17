@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=A+passionate+about+cybersecurity+and+backend+developer" alt="Typing SVG" /></a>
 
-<img align="right" top="500" height="245" width="375" alt="GIF" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
+<img align="right" top="500" height="245" width="375" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJpbXU3OTQ5d29oa2N6YWFnYTBma3BmMjhkYXgxd3d0N2Q5d2U5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharif-islam96403&label=Profile%20views&base=1230&abbreviated=true&color=252da1&style=for-the-badge" alt="sharif-islam96403" /> </p>
   <h3> Back-End Developer || Enginner Systems Student</h3>

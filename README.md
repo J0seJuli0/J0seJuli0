@@ -56,6 +56,14 @@
 &nbsp;
 <br>
 
+### <u> Cloud Services: </u>
+<br>
+
+![AWS](https://img.shields.io/badge/aws-ff9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
+&nbsp;
+
+<br>
+
 ### <u> Operating Systems and Others: </u>
 <br>
 
@@ -91,6 +99,16 @@
 &nbsp;
 <br>
 <hr>
+
+## 📈 Estadísticas de GitHub
+
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=J0seJuli0&show_icons=true&theme=dark)
+
+## 🏆 Trofeos
+
+![Trofeos](https://github-profile-trophy.vercel.app/?username=J0seJuli0)
+
+
 
 <h4 align="center">
 
